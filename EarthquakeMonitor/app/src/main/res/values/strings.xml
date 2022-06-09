@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Earthquake Monitor</string>
+
+    <!-- tab strings    -->
+    <string name="tab1">"Local"</string>
+    <string name="tab2">"General"</string>
+    <string name="tab3">"Other"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings">Settings</string>
+    <string name="home">Home</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="notifications_header">Notifications</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="interval_get_data_title">Default Interval for Feed  </string>
+
+    <!-- Sync Preferences -->
+    <string name="notifications_title">Enable Notifications</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="Theme">Theme</string>
+    <string name="data_settings">Data</string>
+    <string name="details_time_title">Time</string>
+    <string name="details_place_title">Place</string>
+    <string name="details_type_title">Type</string>
+    <string name="details_cities_title">Nearby Cities</string>
+    <string name="mag_title">"Magnitude "</string>
+</resources>

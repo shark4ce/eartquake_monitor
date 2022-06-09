@@ -1,0 +1,20 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="time_interval_data">
+        <item>1 week</item>
+        <item>2 weeks</item>
+        <item>4 weeks</item>
+        <item>6 weeks</item>
+        <item>8 weeks</item>
+        <item>10 weeks</item>
+    </string-array>
+
+    <string-array name="time_interval_data_values">
+        <item>1</item>
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+    </string-array>
+</resources>
